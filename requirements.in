@@ -1,0 +1,4 @@
+pip-tools
+tensorflow
+scikit-learn
+pandas
